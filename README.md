@@ -4,4 +4,4 @@
 
 
 # About Me
-I'm an incoming highschool senior, aspiring to become a mechanical engineering but enjoy spending time learning how to code. I want to learn more about web and game development. I'm currently participating in the Karim Kharbouch Coding Fellowship and a Girl Who Code Pathway to expand my knowledge in this area and am excited to share my future projects.
+I'm an incoming college student, aspiring to become a mechanical engineering but enjoy spending time learning how to code. I want to learn more about web and game development. I have participated in the Karim Kharbouch Coding Fellowship and a Girl Who Code Pathway to expand my knowledge in this area and am excited to share my future projects.
